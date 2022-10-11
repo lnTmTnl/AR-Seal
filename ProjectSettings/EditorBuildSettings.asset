@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/UIScene.unity
+    guid: 6b09f03c52b3991419a2be2e4ee85897
+  - enabled: 1
+    path: Assets/Scenes/SealScene.unity
+    guid: 6a4dfa146f906e54ebea55228fb2a128
+  - enabled: 1
+    path: Assets/Scenes/MuseumScene.unity
+    guid: fc21f53b7ceb5574992387beb9a8cf44
+  - enabled: 1
+    path: Assets/Scenes/ARScene.unity
+    guid: 3273a24eb1796414d8f6beb1bbab01ad
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: a3d82a456e98b3149b7784e218646ca8,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: de8a8e4f987434338a4b1062feb8d069,
+      type: 2}
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: c2f7b8d7c0bff4d10874cbcf3f24af78,
+      type: 2}
+    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: b27ec7d82a91a48e69fd689ad6808e5e,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 1eb95d77acb39444e8cf44313496a874,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 58f40b12bbc864f3c96c6505a9a1e1e3,
+      type: 2}
